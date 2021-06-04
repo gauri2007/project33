@@ -1,6 +1,6 @@
   const Engine = Matter.Engine
   const World = Matter.World
-  //const Events = Matter.Events,
+  const Events = Matter.Events
   const Constraint = Matter.Constraint;
   const Bodies = Matter.Bodies;
  
